@@ -1,0 +1,8 @@
+:root {
+  --index: calc(1vw + 1vh);
+  --gutter: 30px;
+  --side-small: 26;
+  --side-big: 36;
+  --depth: 4000px;
+  --transition: 0.75s cubic-bezier(0.075, 0.5, 0, 1);
+}/*# sourceMappingURL=vars.css.map */
